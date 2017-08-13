@@ -80,9 +80,6 @@ $(function() {
     }
 
 
-
-    // todo: with every highlight serialized file is pushed to server.
-
     $context.textHighlighter({
         onAfterHighlight: function(arr, element) {
 
